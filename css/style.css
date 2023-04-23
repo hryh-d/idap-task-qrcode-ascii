@@ -116,6 +116,9 @@ pre {
 }
 
 .spinner {
+  position: fixed;
+  top: 164px;
+  left: calc(50% - 48px);
   margin: 0 auto;
   border: 12px solid #cfcfcf;
   border-top: 12px solid #4a89dc;
