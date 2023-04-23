@@ -1,1 +1,1 @@
-# idap-task-qrcode-ascii
+## Transform Your string to QRcode or Barcode in ASCII style
